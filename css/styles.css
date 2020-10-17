@@ -40,4 +40,12 @@ header h2 {
     border: 1px solid #DDD;
     border-top: none;
     padding: 10px;   
-}         
+}
+
+.carousel-caption {
+    background-color: rgb(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
+}
